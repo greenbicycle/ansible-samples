@@ -1,0 +1,3 @@
+---
+# vars file for phpinstall
+memory_limit: -1
